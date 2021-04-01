@@ -55,7 +55,7 @@ body {
 
 .header {
   padding: 10px;
-  background-color: firebrick;
+  background-color: rgba(0, 0, 0, 0.7);
   color: white;
   position: fixed;
   top: 0;
