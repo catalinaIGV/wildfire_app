@@ -1,5 +1,4 @@
 import {Icon} from "@iconify/react"; 
-import locationIcon from "@iconify/icons-mdi/fire-alert"; 
 import icebergIcon from '@iconify-icons/openmoji/iceberg';
 import volcanoIcon from '@iconify-icons/emojione/volcano';
 import fireIcon from '@iconify-icons/emojione/fire';
